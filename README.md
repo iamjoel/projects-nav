@@ -2,7 +2,7 @@
 * [Web 前端学习笔记](https://github.com/iamjoel/front-end-note)
 * [Web 前端常用插件](https://github.com/iamjoel/front-end-plugins)
 * [Web 前端 Demos](https://github.com/iamjoel/front-end-demos)
-* [JavaScript 练习](https://github.com/iamjoel/js-kata)
+* [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
 * [Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold)
 * [Web 前端教程](https://github.com/iamjoel/front-end-course)
 * [Node.js Demos](https://github.com/iamjoel/nodejs-demos)
