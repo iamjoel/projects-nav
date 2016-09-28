@@ -10,7 +10,7 @@
 * [分享 PPT](https://github.com/iamjoel/share)
 * [Python 学习笔记](https://github.com/iamjoel/python-note)
 
-## 一些插件
+## 前端插件
 ### 依赖 jQuery
 * [幻灯](https://github.com/iamjoel/simple-slide)
 * [弹出框](https://github.com/iamjoel/popup)
@@ -28,5 +28,6 @@
 * [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
 
 ## 生活
+* [个人信息](https://github.com/iamjoel/profile)
 * [享乐](https://github.com/iamjoel/hedonist)
 * [英语单词，常用语](https://github.com/iamjoel/words)
