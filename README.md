@@ -8,7 +8,8 @@
 * [Node.js Demos](https://github.com/iamjoel/nodejs-demos)
 * [小游戏](https://github.com/iamjoel/minigame)
 * [分享 PPT](https://github.com/iamjoel/share)
-* [Python 学习笔记](https://github.com/iamjoel/python-note)
+* [Python 学习](https://github.com/iamjoel/python-note)
+* [机器学习 学习](https://github.com/iamjoel/machine-learning)
 
 ## 前端插件
 ### 依赖 jQuery
