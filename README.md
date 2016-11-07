@@ -11,6 +11,11 @@
 * [Python 学习](https://github.com/iamjoel/python-note)
 * [机器学习 学习](https://github.com/iamjoel/machine-learning)
 
+## 项目
+* [后台管理系统模板](https://github.com/iamjoel/amusement-admin) Vue2 + Webpack + ...
+* [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
+* [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
+
 ## 前端插件
 ### 依赖 jQuery
 * [幻灯](https://github.com/iamjoel/simple-slide)
@@ -22,11 +27,6 @@
 ## 依赖 [Ractive.js](http://www.ractivejs.org/)
 * [data grid](https://github.com/iamjoel/ractivegrid)
 * [分页](https://github.com/iamjoel/)
-
-## 项目
-* [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
-* [娱乐管理后台](https://github.com/iamjoel/amusement-admin)
-* [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
 
 ## 生活
 * [个人信息](https://github.com/iamjoel/profile)
