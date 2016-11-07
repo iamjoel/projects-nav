@@ -12,7 +12,7 @@
 * [机器学习 学习](https://github.com/iamjoel/machine-learning)
 
 ## 项目
-* [后台管理系统模板](https://github.com/iamjoel/amusement-admin) Vue2 + Webpack + ...
+* [后台管理系统模板](https://github.com/iamjoel/admin-template) Vue2 + Webpack + ...
 * [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
 * [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
 
