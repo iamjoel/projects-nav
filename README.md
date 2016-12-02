@@ -13,6 +13,9 @@
 
 ## 项目
 * [后台管理系统模板](https://github.com/iamjoel/admin-template) Vue2 + Webpack + ...
+* [在线编辑器](https://github.com/iamjoel/web-ide) 基于 CodeMirror。
+* [网页书签导航](https://github.com/iamjoel/bookmark-nav)
+* [百度前端学院练习题 解答](https://github.com/iamjoel/baidu-ife-task)
 * [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
 * [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
 
