@@ -10,7 +10,7 @@
 * [分享 PPT](https://github.com/iamjoel/share)
 * [Python 学习](https://github.com/iamjoel/python-note)
 * [机器学习 学习](https://github.com/iamjoel/machine-learning)
-* [各种琐碎的笔记](https://github.com/iamjoel/words)
+* [各种琐碎的笔记](https://github.com/iamjoel/notes)
 
 ## 项目
 * [后台管理系统模板](https://github.com/iamjoel/admin-template) Vue2 + Webpack + ...
