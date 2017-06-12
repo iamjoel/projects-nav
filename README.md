@@ -5,6 +5,7 @@
 * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
 * [微信小助手](https://github.com/iamjoel/wechat-assistant) 微信个人号机器人。
 * [element-sublime-snippent](https://github.com/iamjoel/element-sublime-snippent) 生成 Element（http://element.eleme.io/） 的代码片段 Sublime 插件。
+* [checklist](https://github.com/iamjoel/checklist) 各种清单/列表。
 * [生活家](https://github.com/iamjoel/life-artist) 让生活更美好~
 * [简书工具](https://github.com/iamjoel/jianshu-tools) 增强简书的功能。
 * [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
@@ -24,6 +25,9 @@
 
 ## 练手项目
 * [todolist](https://github.com/iamjoel/todolist) 用 Vue.js 做的练手项目。
+* 酷炫的效果
+  * [效果收集](https://github.com/iamjoel/effect-collection)
+  * [酷炫的简历](https://github.com/iamjoel//awesome-profile)
 * [toutiao](https://github.com/iamjoel/toutiao) 模仿今日头条。腾讯课堂Vue系列作业。
 * [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
 
