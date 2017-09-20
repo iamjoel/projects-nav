@@ -3,8 +3,9 @@
 
 ## 工具
 * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
-* [微信小助手](https://github.com/iamjoel/wechat-assistant) 微信个人号机器人。
+* [Sublime 代码片段](https://github.com/iamjoel/bookmark-nav)
 * [element-sublime-snippent](https://github.com/iamjoel/element-sublime-snippent) 生成 Element（http://element.eleme.io/） 的代码片段 Sublime 插件。
+* [微信小助手](https://github.com/iamjoel/wechat-assistant) 微信个人号机器人。
 * [checklist](https://github.com/iamjoel/checklist) 各种清单/列表。
 * [生活家](https://github.com/iamjoel/life-artist) 让生活更美好~
 * [简书工具](https://github.com/iamjoel/jianshu-tools) 增强简书的功能。
@@ -17,6 +18,8 @@
 * [Shell](https://github.com/iamjoel/shell-note)
 * [各种琐碎的笔记](https://github.com/iamjoel/notes)
 * [享乐](https://github.com/iamjoel/hedonist)
+* [资源汇总](https://github.com/iamjoel/resources)
+
 
 ## 练习
 * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
