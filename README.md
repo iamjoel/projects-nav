@@ -20,6 +20,9 @@
 * [享乐](https://github.com/iamjoel/hedonist)
 * [资源汇总](https://github.com/iamjoel/resources)
 
+## 娱乐
+* [nodebot learn](https://github.com/iamjoel/nodebot-learn) 学习用 Node.js 控制 Arduino
+
 
 ## 练习
 * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
