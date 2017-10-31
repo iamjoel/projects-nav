@@ -4,7 +4,7 @@
 ## 工具
 * [工具](https://github.com/iamjoel/tools) CMS，爬虫，分词等工具。
 * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
-* [Sublime 代码片段](https://github.com/iamjoel/bookmark-nav)
+* [Sublime 代码片段](https://github.com/iamjoel/util-sublime-snippent)
 * [element-sublime-snippent](https://github.com/iamjoel/element-sublime-snippent) 生成 Element（http://element.eleme.io/） 的代码片段 Sublime 插件。
 * [微信小助手](https://github.com/iamjoel/wechat-assistant) 微信个人号机器人。
 * [checklist](https://github.com/iamjoel/checklist) 各种清单/列表。
@@ -47,6 +47,7 @@
 
 ## 项目模板
 * [后台管理系统模板](https://github.com/iamjoel/admin-template) Vue2 + Webpack + ...
+  * [后台管理系统的前端代码生成工具](https://github.com/iamjoel/admin-fe-generator) 上面后台管理系统模板的生成工具。
 * [Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold)
 * [Web 后端框架对比](https://github.com/iamjoel/web-framework-compare)
 
