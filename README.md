@@ -14,7 +14,8 @@
 
 ## 笔记
 * [Web 前端学习笔记](https://github.com/iamjoel/front-end-note)
-* [Python 学习](https://github.com/iamjoel/python-note)
+* [Python 学习笔记](https://github.com/iamjoel/python-note)
+* [Go 学习笔记](https://github.com/iamjoel/go-note)
 * [机器学习 学习](https://github.com/iamjoel/machine-learning)
 * [Shell](https://github.com/iamjoel/shell-note)
 * [各种琐碎的笔记](https://github.com/iamjoel/notes)
