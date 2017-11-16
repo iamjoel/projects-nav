@@ -4,6 +4,7 @@
 ## 工具
 * [工具](https://github.com/iamjoel/tools) CMS，爬虫，分词等工具。
 * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
+* [schema](https://github.com/iamjoel/schema) 信息的格式。整理信息会用。
 * [Sublime 代码片段](https://github.com/iamjoel/util-sublime-snippent)
 * [element-sublime-snippent](https://github.com/iamjoel/element-sublime-snippent) 生成 Element（http://element.eleme.io/） 的代码片段 Sublime 插件。
 * [微信小助手](https://github.com/iamjoel/wechat-assistant) 微信个人号机器人。
