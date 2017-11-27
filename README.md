@@ -41,6 +41,7 @@
 * [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
 
 ## 资源
+* [我 GitHub 上的 Star 整理](https://github.com/iamjoel/awesome-stars)
 * [Web 前端常用插件](https://github.com/iamjoel/front-end-plugins)
 * [Web 前端教程](https://github.com/iamjoel/front-end-course)
 * [分享 PPT](https://github.com/iamjoel/share)
@@ -49,10 +50,13 @@
 
 ## 项目模板
 * [后台管理系统模板](https://github.com/iamjoel/admin-template) Vue2 + Webpack + ...
-  * [后台管理系统的前端代码生成工具](https://github.com/iamjoel/admin-fe-generator) 上面后台管理系统模板的生成工具。
+  * [admin-fe-generator](https://github.com/iamjoel/admin-fe-generator) 后台管理系统的前端代码生成工具。
   * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
-* [Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold)
+* [vue-cli-template-admin](https://github.com/iamjoel/vue-cli-template-admin) 后台管理系统的前端代码脚手架。基于 vue-cli。
+* [vue-cli-template-mobile](https://github.com/iamjoel/vue-cli-template-mobile) 手机的前端代码脚手架。基于 vue-cli。
+* ~~[Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold) 基于 Yo，已废弃。~~
 * [Web 后端框架对比](https://github.com/iamjoel/web-framework-compare)
+
 
 ## 其他项目
 * [前端共同学习小组](https://github.com/iamjoel/front-end-community)
