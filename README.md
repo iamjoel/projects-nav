@@ -14,18 +14,19 @@
 * [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
 
 ## 笔记
-* [Web 前端学习笔记](https://github.com/iamjoel/front-end-note)
-* [Python 学习笔记](https://github.com/iamjoel/python-note)
-* [Go 学习笔记](https://github.com/iamjoel/go-note)
-* [机器学习 学习](https://github.com/iamjoel/machine-learning)
-* [Shell](https://github.com/iamjoel/shell-note)
-* [各种琐碎的笔记](https://github.com/iamjoel/notes)
+* 程序相关
+  * 编程语言
+    * [Web 前端](https://github.com/iamjoel/front-end-note)
+    * [Python](https://github.com/iamjoel/python-note)
+    * [Go](https://github.com/iamjoel/go-note)
+    * [Shell(命令行)](https://github.com/iamjoel/shell-note)
+  * 应用
+    * [机器学习](https://github.com/iamjoel/machine-learning-note)
+    * [Docker](https://github.com/iamjoel/docker-note)
+    * [NodeBots](https://github.com/iamjoel/nodebots-note) 用 Node.js 控制 Arduino 。
+* [各种琐碎的](https://github.com/iamjoel/notes)
 * [享乐](https://github.com/iamjoel/hedonist)
 * [资源汇总](https://github.com/iamjoel/resources)
-
-## 娱乐
-* [nodebot learn](https://github.com/iamjoel/nodebot-learn) 学习用 Node.js 控制 Arduino
-
 
 ## 练习
 * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
