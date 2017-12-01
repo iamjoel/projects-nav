@@ -14,16 +14,19 @@
 * [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
 
 ## 笔记
-* 程序相关
-  * 编程语言
+* 编程
+  * 基础
     * [Web 前端](https://github.com/iamjoel/front-end-note)
     * [Python](https://github.com/iamjoel/python-note)
     * [Go](https://github.com/iamjoel/go-note)
     * [Shell(命令行)](https://github.com/iamjoel/shell-note)
+    * [数据库](https://github.com/iamjoel/database-note)
   * 应用
     * [机器学习](https://github.com/iamjoel/machine-learning-note)
+    * 区块链
     * [Docker](https://github.com/iamjoel/docker-note)
     * [NodeBots](https://github.com/iamjoel/nodebots-note) 用 Node.js 控制 Arduino 。
+* [增长黑客(Growth Hacking)](https://github.com/iamjoel/growth-hacking-note) 产品，运营等。
 * [各种琐碎的](https://github.com/iamjoel/notes)
 * [享乐](https://github.com/iamjoel/hedonist)
 * [资源汇总](https://github.com/iamjoel/resources)
