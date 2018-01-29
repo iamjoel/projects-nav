@@ -8,6 +8,7 @@
 
 ## Web 前端
 * [笔记](https://github.com/iamjoel/front-end-note)
+* [代码库](https://github.com/iamjoel/front-end-codes)
 * [教程](https://github.com/iamjoel/front-end-course)
 * [Demos](https://github.com/iamjoel/front-end-demos)
 * 工具
@@ -16,7 +17,6 @@
     * ~~[Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold) 基于 Yo，已废弃。~~
   * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
   * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
-  * [代码片段](https://github.com/iamjoel/front-end-snippent)
 * 练习题
   * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
   * [百度前端学院练习题 解答](https://github.com/iamjoel/baidu-ife-task)
