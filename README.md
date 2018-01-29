@@ -2,12 +2,12 @@
 [关于我](https://github.com/iamjoel/about-me)
 
 ## 常用
-* [Web 前端插件](https://github.com/iamjoel/front-end-plugins)
 * [工具集](https://github.com/iamjoel/tools) CMS，爬虫，分词等工具。
 * [GitHub 上的 Star 分类整理](https://github.com/iamjoel/awesome-stars)
 
 ## Web 前端
 * [笔记](https://github.com/iamjoel/front-end-note)
+* [插件](https://github.com/iamjoel/front-end-plugins)
 * [代码库](https://github.com/iamjoel/front-end-codes)
 * [教程](https://github.com/iamjoel/front-end-course)
 * [Demos](https://github.com/iamjoel/front-end-demos)
