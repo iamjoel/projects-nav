@@ -8,6 +8,7 @@
 ## Web 前端
 * [笔记](https://github.com/iamjoel/front-end-note)
 * [插件](https://github.com/iamjoel/front-end-plugins)
+* [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类
 * [代码库](https://github.com/iamjoel/front-end-codes)
 * [教程](https://github.com/iamjoel/front-end-course)
 * [Demos](https://github.com/iamjoel/front-end-demos)
@@ -73,7 +74,10 @@
 * [Checklist](https://github.com/iamjoel/checklist) 各种清单/列表。
 
 ## 生活
+* [daily track](https://github.com/iamjoel/daily-track) 日常任务的checklist 和 当天的随手记录。
 * [分享 PPT](https://github.com/iamjoel/share)
 * [各种琐碎的](https://github.com/iamjoel/notes)
 * [享乐](https://github.com/iamjoel/hedonist)
 * [资源汇总](https://github.com/iamjoel/resources)
+* [超级英雄](https://github.com/iamjoel/superheros)
+
