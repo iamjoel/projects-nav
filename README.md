@@ -22,6 +22,7 @@
   * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
   * [百度前端学院练习题 解答](https://github.com/iamjoel/baidu-ife-task)
 * 练手项目
+  * [宠物店业务管理系统](https://github.com/iamjoel/pet-shop-manage) 帮朋友做的一毕业设计的代码。
   * [端到端测试](https://github.com/iamjoel/e2e-test)
   * [在线编辑器](https://github.com/iamjoel/web-ide) 基于 CodeMirror。
   * [小游戏](https://github.com/iamjoel/minigame)
@@ -70,6 +71,7 @@
   * [简书工具](https://github.com/iamjoel/jianshu-tools) 增强简书的功能。
 
 ## 信息整理
+* [基础能力](https://github.com/iamjoel/basic-skill)
 * [Schema](https://github.com/iamjoel/schema) 信息的格式。整理信息会用。
 * [Checklist](https://github.com/iamjoel/checklist) 各种清单/列表。
 
