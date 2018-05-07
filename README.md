@@ -7,26 +7,37 @@
 
 ## Web 前端
 * [笔记](https://github.com/iamjoel/front-end-note)
-* [插件](https://github.com/iamjoel/front-end-plugins)
-* [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类
-* [代码库](https://github.com/iamjoel/front-end-codes)
-* [教程](https://github.com/iamjoel/front-end-course)
-* [Demos](https://github.com/iamjoel/front-end-demos)
-* 工具
-  * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
-  * [项目模板](https://github.com/iamjoel/front-end-template) 包括管理后台，移动端。以及脚手架生成器。
-    * ~~[Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold) 基于 Yo，已废弃。~~
-  * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
-  * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
-* 练习题
-  * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
-  * [百度前端学院练习题 解答](https://github.com/iamjoel/baidu-ife-task)
+* 工作流
+  * 开发前
+    * [项目模板](https://github.com/iamjoel/front-end-template) 包括管理后台，移动端。以及脚手架生成器。
+      * ~~[Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold) 基于 Yo，已废弃。~~
+  * 开发过程中，提升开发效率
+    * [插件](https://github.com/iamjoel/front-end-plugins)
+    * 代码参考&文档查询
+      * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
+      * [代码库/片段](https://github.com/iamjoel/front-end-codes)
+      * 代码库/片段 管理工具 TODO 
+    * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
+    * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
+    * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
+* 团队成员能力测评&提升
+  * 前端测试系统 TODO
+  * [教程](https://github.com/iamjoel/front-end-course)
+  * demo
+    * [Demos](https://github.com/iamjoel/front-end-demos)
+    * [todolist](https://github.com/iamjoel/todolist) 用 Vue.js 做的练手项目。
+  * 基础练习
+    * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
+    * [百度前端学院练习题 解答](https://github.com/iamjoel/baidu-ife-task)
+  * 综合项目练习
+    * [后台管理系统练手项目](https://github.com/iamjoel/practise-front-end-admin)
+    * PC 页面练习 TODO
+    * 手机页面练习 TODO
 * 练手项目
   * [宠物店业务管理系统](https://github.com/iamjoel/pet-shop-manage) 帮朋友做的一毕业设计的代码。
   * [端到端测试](https://github.com/iamjoel/e2e-test)
   * [在线编辑器](https://github.com/iamjoel/web-ide) 基于 CodeMirror。
   * [小游戏](https://github.com/iamjoel/minigame)
-  * [todolist](https://github.com/iamjoel/todolist) 用 Vue.js 做的练手项目。
   * 酷炫的效果
     * [效果收集](https://github.com/iamjoel/effect-collection)
     * [酷炫的简历](https://github.com/iamjoel//awesome-profile)
