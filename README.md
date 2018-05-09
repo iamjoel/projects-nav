@@ -12,12 +12,15 @@
     * [项目模板](https://github.com/iamjoel/front-end-template) 包括管理后台，移动端。以及脚手架生成器。
       * ~~[Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold) 基于 Yo，已废弃。~~
   * 开发过程中，提升开发效率
-    * [插件](https://github.com/iamjoel/front-end-plugins)
+    * 插件
+      * [插件库](https://github.com/iamjoel/front-end-plugins)
+      * 配置插件，生成插件调用代码。 TODO
     * 代码参考&文档查询
       * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
       * [代码库/片段](https://github.com/iamjoel/front-end-codes)
       * 代码库/片段 管理工具 TODO 
     * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
+    * 托拽生成页面代码工具 TODO
     * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
     * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
 * 团队成员能力测评&提升
