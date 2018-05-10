@@ -30,6 +30,9 @@
     * [Demos](https://github.com/iamjoel/front-end-demos)
     * [todolist](https://github.com/iamjoel/todolist) 用 Vue.js 做的练手项目。
   * 基础练习
+    * HTML&CSS&JS 练习 TODO
+    * Vue 练习 TODO
+    * jQuery 练习 TODO
     * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
     * [百度前端学院练习题 解答](https://github.com/iamjoel/baidu-ife-task)
   * 综合项目练习
