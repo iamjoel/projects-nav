@@ -17,8 +17,7 @@
       * 配置插件，生成插件调用代码。 TODO
     * 代码参考&文档查询
       * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
-      * [代码库/片段](https://github.com/iamjoel/front-end-codes)
-      * 代码库/片段 管理工具 TODO 
+      * [代码库/片段及管理工具](https://github.com/iamjoel/front-end-codes) [管理工具](https://iamjoel.github.io/front-end-codes/tool/dist/index.html)
     * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
     * 托拽生成页面代码工具 TODO
     * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
@@ -31,7 +30,7 @@
     * [todolist](https://github.com/iamjoel/todolist) 用 Vue.js 做的练手项目。
   * 基础练习
     * HTML&CSS&JS 练习 TODO
-    * Vue 练习 TODO
+    * Vue 练习 TODO 参考答案 TOOD
     * jQuery 练习 TODO
     * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
     * [百度前端学院练习题 解答](https://github.com/iamjoel/baidu-ife-task)
