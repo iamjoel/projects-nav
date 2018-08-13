@@ -4,6 +4,7 @@
 ## 常用
 * [工具集](https://github.com/iamjoel/tools) CMS，爬虫，分词等工具。
 * [GitHub 上的 Star 分类整理](https://github.com/iamjoel/awesome-stars)
+* [英语学习笔记](https://github.com/iamjoel/english-learn)
 
 ## Web 前端
 * [笔记](https://github.com/iamjoel/front-end-note)
