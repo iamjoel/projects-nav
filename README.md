@@ -19,11 +19,14 @@
     * 代码参考&文档查询
       * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
       * [代码库/片段及管理工具](https://github.com/iamjoel/front-end-codes) [管理工具](https://iamjoel.github.io/front-end-codes/tool/dist/index.html)
-    * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
-    * [移动端代码生成工具](https://github.com/iamjoel/mobile-fe-generator) 托拽生成页面。
     * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
-    * [移动端代码库](https://github.com/iamjoel/mobile-codes-collection)
     * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
+    * 移动端
+      * [移动端代码生成工具](https://github.com/iamjoel/mobile-fe-generator) 托拽生成页面。
+      * [移动端代码库](https://github.com/iamjoel/mobile-codes-collection)
+    * 管理后台
+      * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
+    * PC 端
 * 团队成员能力测评&提升
   * 前端测试系统 TODO
   * [教程](https://github.com/iamjoel/front-end-course)
