@@ -26,7 +26,7 @@
       * [移动端代码库](https://github.com/iamjoel/mobile-codes-collection)
     * 管理后台
       * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
-      * [管理后台代码库](https://github.com/iamjoel/mobile-codes-collection)
+      * [管理后台代码库](https://github.com/iamjoel/admin-codes-collection)
     * PC 端
       * [PC代码库](https://github.com/iamjoel/pc-codes-collection)
 * 团队成员能力测评&提升
