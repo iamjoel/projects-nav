@@ -86,6 +86,10 @@
 * 提升工作效率
   * [git-flow 练习](https://github.com/iamjoel/git-flow-playground) git-flow 是一种多人协作的高效分支管理模型。
 
+## 创业
+* [软件服务(外包)公司文档](https://github.com/iamjoel/it-service-doc)
+* [创业笔记](https://github.com/iamjoel/company-note)
+
 ## 增长黑客(Growth Hacking)
 * [笔记](https://github.com/iamjoel/growth-hacking-note) 产品，运营等。
 * 工具
