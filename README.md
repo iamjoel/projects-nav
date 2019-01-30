@@ -21,12 +21,12 @@
       * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
       * [代码库/片段及管理工具](https://github.com/iamjoel/front-end-codes) [管理工具](https://iamjoel.github.io/front-end-codes/tool/dist/index.html)
     * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
+    * [Easy CMS Generator](https://github.com/iamjoel/easy-cms-generator) 生成常规的 CRUD 的服务器端与管理后台的代码。
     * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
     * 移动端
       * [移动端代码生成工具](https://github.com/iamjoel/mobile-fe-generator) 托拽生成页面。
       * [移动端代码库](https://github.com/iamjoel/mobile-codes-collection)
     * 管理后台
-      * [管理后台代码生成工具](https://github.com/iamjoel/admin-fe-generator)
       * [管理后台代码库](https://github.com/iamjoel/admin-codes-collection)
     * PC 端
       * [PC代码库](https://github.com/iamjoel/pc-codes-collection)
