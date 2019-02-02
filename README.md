@@ -14,37 +14,35 @@
     * [项目模板](https://github.com/iamjoel/front-end-template) 包括管理后台，移动端。以及脚手架生成器。
       * ~~[Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold) 基于 Yo，已废弃。~~
   * 开发过程中，提升开发效率
+    * 代码生成工具
+      * [Easy CMS Generator](https://github.com/iamjoel/easy-cms-generator) 生成常规的 CRUD 的服务器端与管理后台的代码。
+      * [移动端代码生成工具](https://github.com/iamjoel/mobile-fe-generator) 托拽生成页面。
+      * 配置插件，生成插件调用代码。 TODO
     * 插件
       * [插件库](https://github.com/iamjoel/front-end-plugins)
-      * 配置插件，生成插件调用代码。 TODO
-    * 代码参考&文档查询
-      * [网页书签导航](https://github.com/iamjoel/bookmark-nav) 支持快捷键打开，搜索的功能。
-      * [代码库/片段及管理工具](https://github.com/iamjoel/front-end-codes) [管理工具](https://iamjoel.github.io/front-end-codes/tool/dist/index.html)
-    * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
-    * [Easy CMS Generator](https://github.com/iamjoel/easy-cms-generator) 生成常规的 CRUD 的服务器端与管理后台的代码。
-    * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
-    * 移动端
-      * [移动端代码生成工具](https://github.com/iamjoel/mobile-fe-generator) 托拽生成页面。
+      * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
+      * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
+    * 代码参考
+      * [代码库/片段及管理工具](https://github.com/iamjoel/front-end-codes) [在线地址](https://iamjoel.github.io/front-end-codes/tool/dist/index.html)
       * [移动端代码库](https://github.com/iamjoel/mobile-codes-collection)
-    * 管理后台
       * [管理后台代码库](https://github.com/iamjoel/admin-codes-collection)
-    * PC 端
       * [PC代码库](https://github.com/iamjoel/pc-codes-collection)
+      * [前端 Demo](https://github.com/iamjoel/front-end-demos)
+    * 文档查询
+      * [前端常用网站导航](https://iamjoel.github.io/bookmark-nav/src/front-end.html) 支持快捷键打开，搜索的功能。
 * 团队成员能力测评&提升
   * 前端测试系统 TODO
   * [教程](https://github.com/iamjoel/front-end-course)
-  * demo
-    * [Demos](https://github.com/iamjoel/front-end-demos)
-    * [todolist](https://github.com/iamjoel/todolist) 用 Vue.js 做的练手项目。
   * 基础练习
     * [HTML&CSS&JS, jQuery, Vue 练习](https://zhifeclub.github.io/front-end-learn/zero/nav/#task)
-    * [Web 前端练习题](https://github.com/iamjoel/front-end-kata)
+    * [Web 前端练习题](https://github.com/iamjoel/front-end-kata) Kata。
     * [百度前端学院练习题 解答](https://github.com/iamjoel/baidu-ife-task)
   * 综合项目练习
     * [后台管理系统练手项目](https://github.com/iamjoel/practise-front-end-admin)
     * PC 页面练习 TODO
     * [手机页面练习](https://github.com/iamjoel/practise-front-end-mobile)
 * 练手项目
+  * [Todo List](https://github.com/iamjoel/todolist) 用 Vue.js 做的练手项目。
   * [宠物店业务管理系统](https://github.com/iamjoel/pet-shop-manage) 帮朋友做的一毕业设计的代码。
   * [端到端测试](https://github.com/iamjoel/e2e-test)
   * [在线编辑器](https://github.com/iamjoel/web-ide) 基于 CodeMirror。
@@ -56,7 +54,7 @@
   * [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
   * [生活家](https://github.com/iamjoel/life-artist) 让生活更美好~
   * [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
-* 写的插件
+* 插件
   * 基于 Vue.js 的插件
     * [自定义下拉框组件](https://github.com/iamjoel/custom-select) 做着玩的。请勿用到生产环境。
   * 基于 jQuery 的插件
