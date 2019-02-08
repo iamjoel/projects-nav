@@ -100,6 +100,7 @@
 * [Checklist](https://github.com/iamjoel/checklist) 各种清单/列表。
 
 ## 生活
+* [装修笔记](https://github.com/iamjoel/decorating-note)
 * [daily track](https://github.com/iamjoel/daily-track) 日常任务的checklist 和 当天的随手记录。
 * [分享 PPT](https://github.com/iamjoel/share)
 * [各种琐碎的](https://github.com/iamjoel/notes)
