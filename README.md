@@ -76,6 +76,7 @@
   * [Shell(命令行)](https://github.com/iamjoel/shell-note)
   * [数据库](https://github.com/iamjoel/database-note)
   * [Web 后端框架对比](https://github.com/iamjoel/web-framework-compare)
+  * [IOS 开发](https://github.com/iamjoel/ios-note)
 * 应用
   * [机器学习](https://github.com/iamjoel/machine-learning-note)
   * [区块链](https://github.com/iamjoel/blockchain-note)
