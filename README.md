@@ -11,7 +11,7 @@
 * [笔记](https://github.com/iamjoel/front-end-note)
 * 工作流
   * 开发前
-    * [项目模板](https://github.com/iamjoel/front-end-template) 包括管理后台，移动端。以及脚手架生成器。
+    * [项目模板](https://github.com/iamjoel/project-template) 包括管理后台，移动端。以及脚手架生成器。
       * ~~[Web 前端开发脚手架项目](https://github.com/iamjoel/front-end-scaffold) 基于 Yo，已废弃。~~
   * 开发过程中，提升开发效率
     * 代码生成工具
@@ -49,7 +49,7 @@
   * [小游戏](https://github.com/iamjoel/minigame)
   * 酷炫的效果
     * [效果收集](https://github.com/iamjoel/effect-collection)
-    * [酷炫的简历](https://github.com/iamjoel//awesome-profile)
+    * [酷炫的简历](https://github.com/iamjoel/awesome-profile)
   * [toutiao](https://github.com/iamjoel/toutiao) 模仿今日头条。腾讯课堂Vue系列作业。
   * [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
   * [生活家](https://github.com/iamjoel/life-artist) 让生活更美好~
@@ -87,6 +87,7 @@
 
 ## 创业
 * [软件服务(外包)公司文档](https://github.com/iamjoel/it-service-doc)
+* [项目管理系统](https://github.com/iamjoel/project-manage)
 * [创业笔记](https://github.com/iamjoel/company-note)
 
 ## 增长黑客(Growth Hacking)
