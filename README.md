@@ -103,7 +103,8 @@
 
 ## 生活
 * [装修笔记](https://github.com/iamjoel/decorating-note)
-* [daily track](https://github.com/iamjoel/daily-track) 日常任务的checklist 和 当天的随手记录。
+* [daily track](https://github.com/iamjoel/daily-track) 日常任务的checklist 和 当天的随手记录的网页小软件。
+* [life log](https://github.com/iamjoel/life-log)[私有库] 日常。
 * [分享 PPT](https://github.com/iamjoel/share)
 * [各种琐碎的](https://github.com/iamjoel/notes)
 * [享乐](https://github.com/iamjoel/hedonist)
