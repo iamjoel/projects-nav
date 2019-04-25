@@ -102,6 +102,7 @@
 * [Checklist](https://github.com/iamjoel/checklist) 各种清单/列表。
 
 ## 生活
+* [为了财务自由](https://github.com/iamjoel/finance-note)
 * [装修笔记](https://github.com/iamjoel/decorating-note)
 * [daily track](https://github.com/iamjoel/daily-track) 日常任务的checklist 和 当天的随手记录的网页小软件。
 * [life log](https://github.com/iamjoel/life-log)[私有库] 日常。
