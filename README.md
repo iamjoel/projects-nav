@@ -42,6 +42,8 @@
     * PC 页面练习 TODO
     * [手机页面练习](https://github.com/iamjoel/practise-front-end-mobile)
 * 练手项目
+  * [记账本-Vue实现](https://github.com/iamjoel/account-log-book) 
+  * [记账本-小程序实现](https://github.com/iamjoel/account-log-book-mp) 
   * [Todo List](https://github.com/iamjoel/todolist) 用 Vue.js 做的练手项目。
   * [宠物店业务管理系统](https://github.com/iamjoel/pet-shop-manage) 帮朋友做的一毕业设计的代码。
   * [端到端测试](https://github.com/iamjoel/e2e-test)
