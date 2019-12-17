@@ -30,6 +30,8 @@
       * [前端 Demo](https://github.com/iamjoel/front-end-demos)
     * 文档查询
       * [前端常用网站导航](https://iamjoel.github.io/bookmark-nav/src/front-end.html) 支持快捷键打开，搜索的功能。
+  * 开发后
+    * [前端测试](https://github.com/iamjoel/front-end-test-case)
 * 团队成员能力测评&提升
   * 前端测试系统 TODO
   * [教程](https://github.com/iamjoel/front-end-course)
