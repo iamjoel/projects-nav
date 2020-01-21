@@ -9,6 +9,7 @@
 
 ## Web 前端
 * [笔记](https://github.com/iamjoel/front-end-note)
+* [前端团队指南](https://github.com/iamjoel/front-end-team-guide)
 * 工作流
   * 开发前
     * [项目模板](https://github.com/iamjoel/project-template) 包括管理后台，移动端。以及脚手架生成器。
@@ -33,7 +34,7 @@
   * 开发后
     * [前端测试](https://github.com/iamjoel/front-end-test-case)
 * 团队成员能力测评&提升
-  * 前端测试系统 TODO
+  * [前端评估](https://github.com/iamjoel/front-end-assessment) 测试驱动的前端评估。
   * [教程](https://github.com/iamjoel/front-end-course)
   * 基础练习
     * [HTML&CSS&JS, jQuery, Vue 练习](https://zhifeclub.github.io/front-end-learn/zero/nav/#task)
