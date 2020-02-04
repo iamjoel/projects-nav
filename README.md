@@ -18,19 +18,15 @@
     * 代码生成工具
       * [Easy CMS Generator](https://github.com/iamjoel/easy-cms-generator) 生成常规的 CRUD 的服务器端与管理后台的代码。
       * [移动端代码生成工具](https://github.com/iamjoel/mobile-fe-generator) 托拽生成页面。
-      * 配置插件，生成插件调用代码。 TODO
     * 插件
       * [插件库](https://github.com/iamjoel/front-end-plugins)
       * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
       * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
     * 代码参考
-      * [代码库/片段及管理工具](https://github.com/iamjoel/front-end-codes) [在线地址](https://iamjoel.github.io/front-end-codes/tool/dist/index.html)
+      * [前端文档&代码查询](https://github.com/iamjoel/front-end-doc) [在线地址](https://iamjoel.github.io/front-end-doc/www/dist/index.html)
       * [移动端代码库](https://github.com/iamjoel/mobile-codes-collection)
       * [管理后台代码库](https://github.com/iamjoel/admin-codes-collection)
       * [PC代码库](https://github.com/iamjoel/pc-codes-collection)
-      * [前端 Demo](https://github.com/iamjoel/front-end-demos)
-    * 文档查询
-      * [前端常用网站导航](https://iamjoel.github.io/bookmark-nav/src/front-end.html) 支持快捷键打开，搜索的功能。
   * 开发后
     * [前端测试](https://github.com/iamjoel/front-end-test-case)
 * 团队成员能力测评&提升
