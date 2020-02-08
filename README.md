@@ -23,7 +23,7 @@
       * [CSS utils collection](https://github.com/iamjoel/css-utils-collection) 常用 CSS 工具类。
       * [Mock Server](https://github.com/iamjoel/mock-server) 生成后端接口模拟数据。
     * 代码参考
-      * [前端文档&代码查询](https://github.com/iamjoel/front-end-doc) [在线地址](https://iamjoel.github.io/front-end-doc/www/dist/index.html)
+      * [前端文档&代码查询](https://github.com/iamjoel/front-end-doc) [在线地址](https://iamjoel.github.io/front-end-doc/doc/dist/index.html)
       * [移动端代码库](https://github.com/iamjoel/mobile-codes-collection)
       * [管理后台代码库](https://github.com/iamjoel/admin-codes-collection)
       * [PC代码库](https://github.com/iamjoel/pc-codes-collection)
@@ -71,20 +71,13 @@
 
 ## 编程
 * 基础
-  * [Node.js](https://github.com/iamjoel/nodejs-note)
-  * [Python](https://github.com/iamjoel/python-note)
-  * [Go](https://github.com/iamjoel/go-note)
-  * [Shell(命令行)](https://github.com/iamjoel/shell-note)
-  * [数据库](https://github.com/iamjoel/database-note)
-  * [Web 后端框架对比](https://github.com/iamjoel/web-framework-compare)
+  * [后端](https://github.com/iamjoel/back-note) 包括 Node.js, Java, Python, Go, 数据库等。 
   * [IOS 开发](https://github.com/iamjoel/ios-note)
 * 应用
   * [机器学习](https://github.com/iamjoel/machine-learning-note)
   * [区块链](https://github.com/iamjoel/blockchain-note)
   * [Docker](https://github.com/iamjoel/docker-note)
   * [NodeBots](https://github.com/iamjoel/nodebots-note) 用 Node.js 控制 Arduino 。
-* 提升工作效率
-  * [git-flow 练习](https://github.com/iamjoel/git-flow-playground) git-flow 是一种多人协作的高效分支管理模型。
 
 ## 创业
 * [软件服务(外包)公司文档](https://github.com/iamjoel/it-service-doc)
