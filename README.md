@@ -2,10 +2,7 @@
 [关于我](https://github.com/iamjoel/about-me)
 
 ## 常用
-* [工具集](https://github.com/iamjoel/tools) CMS，爬虫，分词等工具。
-* [GitHub 上的 Star 分类整理](https://github.com/iamjoel/awesome-stars)
-* [我的收藏](https://github.com/iamjoel/my-treasure)
-* [英语学习笔记](https://github.com/iamjoel/english-learn)
+[工具和素材](https://github.com/iamjoel/tools-and-material)(如：CMS，爬虫，分词等工具,清单,模板等),[GitHub 上的 Star 分类整理](https://github.com/iamjoel/awesome-stars),[我的收藏](https://github.com/iamjoel/my-treasure)，[英语学习笔记](https://github.com/iamjoel/english-learn),[基础能力](https://github.com/iamjoel/basic-skill)。
 
 ## Web 前端
 * [笔记](https://github.com/iamjoel/front-end-note)
@@ -90,11 +87,6 @@
 * 工具
   * [微信小助手](https://github.com/iamjoel/wechat-assistant) 微信个人号机器人。
   * [简书工具](https://github.com/iamjoel/jianshu-tools) 增强简书的功能。
-
-## 信息整理
-* [基础能力](https://github.com/iamjoel/basic-skill)
-* [Schema](https://github.com/iamjoel/schema) 信息的格式。整理信息会用。
-* [Checklist](https://github.com/iamjoel/checklist) 各种清单/列表。
 
 ## 生活
 * [为了财务自由](https://github.com/iamjoel/finance-note)
