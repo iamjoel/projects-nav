@@ -84,9 +84,6 @@
 
 ## 增长黑客(Growth Hacking)
 * [笔记](https://github.com/iamjoel/growth-hacking-note) 产品，运营等。
-* 工具
-  * [微信小助手](https://github.com/iamjoel/wechat-assistant) 微信个人号机器人。
-  * [简书工具](https://github.com/iamjoel/jianshu-tools) 增强简书的功能。
 
 ## 生活
 * [为了财务自由](https://github.com/iamjoel/finance-note)
