@@ -51,6 +51,7 @@
   * [toutiao](https://github.com/iamjoel/toutiao) 模仿今日头条。腾讯课堂Vue系列作业。
   * [行业热度－寻找热门行业](https://github.com/iamjoel/patsnap-hacking)
   * [生活家](https://github.com/iamjoel/life-artist) 让生活更美好~
+  * [daily track](https://github.com/iamjoel/daily-track) 日常任务的checklist 和 当天的随手记录的网页小软件。
   * [显示日常信息](https://github.com/iamjoel/grab-info-web) 类型 igoogle
 * 插件
   * 基于 Vue.js 的插件
@@ -76,21 +77,13 @@
   * [Docker](https://github.com/iamjoel/docker-note)
   * [NodeBots](https://github.com/iamjoel/nodebots-note) 用 Node.js 控制 Arduino 。
 
-## 创业
-* [软件服务(外包)公司文档](https://github.com/iamjoel/it-service-doc)
-* [项目复盘[私有库]](https://github.com/iamjoel/project-review)
-* [项目管理系统](https://github.com/iamjoel/project-manage)
-* [创业笔记](https://github.com/iamjoel/company-note)
-
 ## 增长黑客(Growth Hacking)
 * [笔记](https://github.com/iamjoel/growth-hacking-note) 产品，运营等。
 
 ## 生活
 * [为了财务自由](https://github.com/iamjoel/finance-note)
 * [装修笔记](https://github.com/iamjoel/decorating-note)
-* [daily track](https://github.com/iamjoel/daily-track) 日常任务的checklist 和 当天的随手记录的网页小软件。
 * [life log](https://github.com/iamjoel/life-log)[私有库] 日常。
-* [分享 PPT](https://github.com/iamjoel/share)
 * [各种琐碎的](https://github.com/iamjoel/notes)
 * [享乐](https://github.com/iamjoel/hedonist)
 * [资源汇总](https://github.com/iamjoel/resources)
