@@ -31,4 +31,4 @@
 [机器学习](https://github.com/iamjoel/machine-learning-note),[区块链](https://github.com/iamjoel/blockchain-note)，[Docker](https://github.com/iamjoel/docker-note)，[NodeBots](https://github.com/iamjoel/nodebots-note)(用 Node.js 控制 Arduino)。
 
 ## 生活
-[超级英雄](https://github.com/iamjoel/superheros)，[装修笔记](https://github.com/iamjoel/decorating-note)，[日常记录](https://github.com/iamjoel/life-log)[私有库]，[各种琐碎的](https://github.com/iamjoel/notes)。
+[关于我](https://github.com/iamjoel/about-me)，[超级英雄](https://github.com/iamjoel/superheros)，[装修笔记](https://github.com/iamjoel/decorating-note)，[日常记录](https://github.com/iamjoel/life-log)[私有库]，[各种琐碎的](https://github.com/iamjoel/notes)。
