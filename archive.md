@@ -7,6 +7,9 @@
 ## 工具
 [Mock Server](https://github.com/iamjoel/mock-server)(生成后端接口模拟数据)
 
+## 评估
+[百度前端学院](https://github.com/iamjoel/baidu-ife-task)。
+
 ## 练手项目
 ### 基于 Vue
 [仿今日头条](https://github.com/iamjoel/toutiao)，[daily track(已归档)](https://github.com/iamjoel/daily-track)(日常任务的checklist 和 当天的随手记录的网页小软件)。
