@@ -16,9 +16,11 @@
 Vue: [记账本](https://github.com/iamjoel/account-log-book), [Todo List](https://github.com/iamjoel/todolist)。  
 微信小程序: [记账本](https://github.com/iamjoel/account-log-book-mp)。
 
-
 ## 编程
 [后端](https://github.com/iamjoel/back-note)(包括 Node.js, Java, Python, Go, 数据库等)。 
+
+## 管理
+[敏捷开发](https://github.com/iamjoel/scrum-note)
 
 ## 产品&运营
 [增长黑客笔记](https://github.com/iamjoel/growth-hacking-note)。
