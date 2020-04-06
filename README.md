@@ -1,6 +1,6 @@
 # 我的项目导航
 ## 常用
-[工具和素材](https://github.com/iamjoel/tools-and-material), [我的收藏](https://github.com/iamjoel/my-treasure), [英语学习笔记](https://github.com/iamjoel/english-learn), [基础能力](https://github.com/iamjoel/basic-skill)。
+[工具和素材](https://github.com/iamjoel/tools-and-material), [英语学习笔记](https://github.com/iamjoel/english-learn), [基础能力](https://github.com/iamjoel/basic-skill)。
 
 ## Web 前端
 文档类: [笔记](https://github.com/iamjoel/front-end-note), [前端团队指南](https://github.com/iamjoel/front-end-team-guide), [插件库](https://github.com/iamjoel/front-end-plugins), [前端文档&代码查询](https://github.com/iamjoel/front-end-doc)([在线地址](https://iamjoel.github.io/front-end-doc/doc/dist/index.html))。
@@ -19,12 +19,9 @@ Vue: [记账本](https://github.com/iamjoel/account-log-book), [Todo List](https
 ## 编程
 [后端](https://github.com/iamjoel/back-end-note): 包括 Node.js, Java, Python, Go, 数据库, 命令行等。 
 
-## 管理
-[敏捷开发](https://github.com/iamjoel/scrum-note)
-
-## 产品&运营
-[增长黑客笔记](https://github.com/iamjoel/growth-hacking-note)。
-
-## 生活
-[为了财务自由](https://github.com/iamjoel/finance-note), [享乐](https://github.com/iamjoel/hedonist), [资源汇总](https://github.com/iamjoel/resources)。
-
+## 能力
+* [基础能力](https://github.com/iamjoel/basic-skill)  
+* 管理: [敏捷开发](https://github.com/iamjoel/scrum-note)   
+* 产品&运营: [增长黑客笔记](https://github.com/iamjoel/growth-hacking-note)  
+* 财务： [财务知识](https://github.com/iamjoel/finance-note)  
+* [英语学习笔记](https://github.com/iamjoel/english-learn)
