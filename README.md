@@ -9,7 +9,7 @@
 
 能力评估: [测试驱动的前端评估](https://github.com/iamjoel/front-end-assessment), [算法练习题](https://github.com/iamjoel/front-end-kata), [后台管理系统](https://github.com/iamjoel/practise-front-end-admin), [手机端](https://github.com/iamjoel/practise-front-end-mobile)。
 
-代码参考: [移动端](https://github.com/iamjoel/mobile-codes-collection), [管理后台](https://github.com/iamjoel/admin-codes-collection), [PC](https://github.com/iamjoel/pc-codes-collection)。  
+代码参考: [前端场景 & 解决方案](https://github.com/iamjoel/fe-solution),[移动端](https://github.com/iamjoel/mobile-codes-collection), [管理后台](https://github.com/iamjoel/admin-codes-collection), [PC](https://github.com/iamjoel/pc-codes-collection)。  
 [前端测试](https://github.com/iamjoel/front-end-test-case)。
 
 练手项目: 
